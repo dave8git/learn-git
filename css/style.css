@@ -10,6 +10,10 @@ div {
     width: 20%;
 }
 
+.dark-green-title {
+    color: green;
+}
+
 .violet-subtitle {
     color: darkorchid;
 }
