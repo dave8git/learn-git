@@ -1,0 +1,21 @@
+body {
+    width: 100%;
+}
+
+div {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+    width: 20%;
+}
+
+.dark-green-title {
+    color: green;
+}
+
+.violet-subtitle {
+    color: darkorchid;
+}
